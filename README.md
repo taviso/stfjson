@@ -18,7 +18,7 @@ You need `libjson-c`, then just type `make`
 
 ## Exporting Agenda Data to STF
 
-In Lotus Agenda, you can either export an agenda file to STD manually:
+In Lotus Agenda, you can either export an agenda file to STF manually:
 
 ```
 F10 (menu) -> File -> Transfer -> Export
